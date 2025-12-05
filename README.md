@@ -15,7 +15,8 @@ Each folder includes a project from the course, along with scripts and notes.
 
 ## 📅 Progress
 - Started: November 2025  
-- Current Unit: (Update as you go)
+- Unit 1 - Player Control (✅ Done)
+- Current Unit: Unit 2 - Basic Gameplay
 
 ---
 
